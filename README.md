@@ -1,18 +1,25 @@
 # project-vue
 
-> A Vue.js project
+<p align="center">
+  <img src="https://goo.gl/wZoXVv" alt="vue" width="60">
+  <br><br><strong>Vue Project</strong>
+</p>
 
-## Build Setup
+## Build Setup & vue-cli
 
-``` bash
-# install dependencies
-npm install
+```bash
+$ npm install -g vue-cli
+$ vue init egoist/vuepack new-project
+$ cd new-project
+$ npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# edit files and start developing
+$ npm run dev
+# bundle all scripts and styles for production use
+$ npm run build
 
-# build for production with minification
-npm run build
+# lint your code
+$ npm run lint
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
