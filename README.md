@@ -1,4 +1,4 @@
-# project-vue
+# Project Vue + Firebase
 
 <p align="center">
   <img src="https://goo.gl/wZoXVv" alt="vue" width="60">
