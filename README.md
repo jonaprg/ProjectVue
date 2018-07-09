@@ -9,7 +9,7 @@
 
 ```bash
 $ npm install -g vue-cli
-$ vue init egoist/vuepack new-project
+$ vue init webpack-simple new-project
 $ cd new-project
 $ npm install
 
@@ -18,8 +18,6 @@ $ npm run dev
 # bundle all scripts and styles for production use
 $ npm run build
 
-# lint your code
-$ npm run lint
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
