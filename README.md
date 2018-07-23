@@ -1,4 +1,4 @@
-# Project Vue + Firebase
+# Project Vue + Firebase + Vuetify
 
 <p align="center">
   <img src="https://goo.gl/wZoXVv" alt="vue" width="60">
@@ -11,6 +11,8 @@
 $ npm install -g vue-cli
 $ vue init webpack-simple new-project
 $ cd new-project
+
+# install dependencies
 $ npm install
 
 # edit files and start developing
